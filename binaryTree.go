@@ -40,6 +40,6 @@ func main() {
 	insert(root, 4)
 	insert(root, 5)
 	insert(root, 6)
-	insert(root, 7)
+	insert(root, 9)
 	fmt.Println("Height of the binary tree:", height(root))
 }
